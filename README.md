@@ -32,22 +32,22 @@ Bu sistem, log verilerini analiz ederek anormal aktiviteleri tespit eder ve kull
 
 ```bash
 git clone <repo_url>
-cd RealTimeLogSentinel  ```
+cd RealTimeLogSentinel```
 
 2. Gerekli kütüphaneleri yükleyin:
 
 ```bash
-pip install streamlit pandas plotly ```
+pip install streamlit pandas plotly```
 
 3. Log üretim scriptini çalıştırın:
 
 ```bash
-python log_collector.py ```
+python log_collector.py```
 
 4. Dashboard’u başlatın:
 
 ```bash
-streamlit run dashboard.py ```
+streamlit run dashboard.py```
 
 5. Tarayıcıda açılan sayfadan sistemi görüntüleyin.
 
