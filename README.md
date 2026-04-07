@@ -29,27 +29,32 @@ Bu sistem, log verilerini analiz ederek anormal aktiviteleri tespit eder ve kull
 ## Kurulum ve Çalıştırma
 
 1. Repoyu klonlayın:
+
 ```bash
 git clone <repo_url>
 cd RealTimeLogSentinel
----
 
-2.Gerekli kütüphaneleri yükleyin:
+2. Gerekli kütüphaneleri yükleyin:
+
 ```bash
 pip install streamlit pandas plotly
 
-3.Log üretim scriptini çalıştırın:
+3. Log üretim scriptini çalıştırın:
+
 ```bash
 python log_collector.py
 
-4.Dashboard’u başlatın:
+4. Dashboard’u başlatın:
+
+```bash
 streamlit run dashboard.py
 
-5.Tarayıcıda açılan sayfadan sistemi görüntüleyin.
+5. Tarayıcıda açılan sayfadan sistemi görüntüleyin.
 
-## Proje Amacı
-Bu proje, SIEM (Security Information and Event Management) sistemlerinin temel mantığını anlamak ve uygulamak amacıyla geliştirilmiştir.  
 
-Gerçek zamanlı log analizi, anomali tespiti ve alert üretimi gibi güvenlik operasyonlarının temel bileşenlerini simüle eder.  
 
-Ayrıca veri görselleştirme teknikleri kullanılarak log verilerinin daha anlaşılır ve analiz edilebilir hale getirilmesi hedeflenmiştir.
+
+
+
+
+
