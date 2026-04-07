@@ -55,6 +55,16 @@ streamlit run dashboard.py
 
 5. Tarayıcıda açılan sayfadan sistemi görüntüleyin.
 
+---
+
+## Proje Amacı
+
+Bu proje, SIEM (Security Information and Event Management) sistemlerinin temel mantığını anlamak ve uygulamak amacıyla geliştirilmiştir.
+
+Gerçek zamanlı log analizi, anomali tespiti ve alert üretimi gibi güvenlik operasyonlarının temel bileşenlerini simüle eder.
+
+Ayrıca veri görselleştirme teknikleri kullanılarak log verilerinin daha anlaşılır ve analiz edilebilir hale getirilmesi hedeflenmiştir.
+
 
 
 
