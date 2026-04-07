@@ -32,6 +32,7 @@ Bu sistem, log verilerini analiz ederek anormal aktiviteleri tespit eder ve kull
 ```bash
 git clone <repo_url>
 cd RealTimeLogSentinel
+---
 
 2.Gerekli kütüphaneleri yükleyin:
 ```bash
